@@ -15,6 +15,8 @@ src/main/java/com/example/batch
 │   ├── BatchConfig.java         # Configuration du batch
 │── model/
 │   ├── Employee.java            # Entité JPA
+│── reader/
+│   ├── JdbcEmployeeReader.java  # Entité JPA
 │── processor/
 │   ├── EmployeeProcessor.java   # Transformation des données
 │── repository/
